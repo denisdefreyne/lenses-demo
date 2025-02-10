@@ -22,6 +22,6 @@
     "package": "npm run-script build; rm -rf dist; mkdir dist; cp build/* dist/; cp public/index.html dist/"
   },
   "devDependencies": {
-    "esbuild": "^0.12.8"
+    "esbuild": "^0.25.0"
   }
 }
